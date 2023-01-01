@@ -1,0 +1,1 @@
+HTML_CSS_JS_Generator is basically a python program that lets you customize you work by generating a boiler template of html code and linking all html , css and js file . This python program is made with the help of os module that comes with python installation.
